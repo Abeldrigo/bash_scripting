@@ -14,7 +14,7 @@ The notebooks must be run under [bash kernel](https://github.com/takluyver/bash_
 To clon this repository on your local system, run from a terminal:
 
 ```
-git clone https://github.com/abel/repositoryname.git
+git clone https://github.com/Abeldrigo/bash_scripting.git
 ```
 
 This notebook is released under [MIT Licence](LICENCE) terms.
